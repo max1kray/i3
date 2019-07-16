@@ -6,3 +6,4 @@ i3gaps - window manager
 networkmanager and nm-applet - network
 mc - file manager
 
+r
