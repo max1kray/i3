@@ -1,5 +1,5 @@
 # i3
-software that i use:
+software that i use: <br>
 surf - web browser
 compton - composit manager
 i3gaps - window manager
